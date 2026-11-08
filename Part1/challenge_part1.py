@@ -1,4 +1,4 @@
-
+# Name Isam Zia Roll no: TRN-2026-00346
 
 name = input("Enter Student Name : ")
 age = int(input("Enter Student age : ")) 
