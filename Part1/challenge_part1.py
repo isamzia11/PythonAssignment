@@ -1,24 +1,14 @@
-# Name Isam Zia Roll no: TRN-2026-00346
+# Name Isam Zia Roll no: TRN-2026-00346 
 
-name = input("Enter Student Name : ")
-age = int(input("Enter Student age : ")) 
-student_class = input("Enter Student class : ")
+celsius = float(input("Enter Celsius: "))
+km = float(input("Enter kilometers: "))
 
-math = float(input("Enter Math marks : ")) 
-english = float(input("Enter English marks : "))
-science = float(input("Enter Science marks : "))
+fahrenheit = celsius * 9 / 5 + 32
+kelvin = celsius + 273.15
+miles = km * 0.621371
+metres = km * 1000
 
-total = math + english + science 
-average = total / 3 
-
-print("\n===== Student Information =====")
-print("Name : ",name )
-print("Age : ",age)
-print("Class : ",student_class)
-print("Total Marks : ",total)
-print("Average Marks : ",average)
-
-print("\n===== Data Types =====")
-print("Name type : ",type(name))
-print("Age Type :",type(age))
-print("Average type : ",type(average))
+print(f"Fahrenheit: {fahrenheit:.1f}")
+print(f"Kelvin: {kelvin:.1f}")
+print(f"Miles: {miles:.1f}")
+print(f"Metres: {metres:.1f}")
