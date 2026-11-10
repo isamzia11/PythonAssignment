@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Isam",
+    "roll_number": 11,
+    "marks": [
+      98.0,
+      89.0,
+      97.0
+    ]
+  },
+  {
+    "name": "Mohammad",
+    "roll_number": 12,
+    "marks": [
+      87.0
+    ]
+  }
+]
