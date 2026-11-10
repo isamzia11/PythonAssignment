@@ -1,0 +1,32 @@
+[
+    {
+        "price": 120000,
+        "name": "Laptop",
+        "stock": 5,
+        "tags": []
+    },
+    {
+        "price": 1500,
+        "name": "Mouse",
+        "stock": 0,
+        "tags": []
+    },
+    {
+        "price": 3500,
+        "name": "Keyboard",
+        "stock": 10,
+        "tags": []
+    },
+    {
+        "price": 30000,
+        "name": "Monitor",
+        "stock": 0,
+        "tags": []
+    },
+    {
+        "price": 500,
+        "name": "USB Cable",
+        "stock": 20,
+        "tags": []
+    }
+]
